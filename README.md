@@ -22,6 +22,8 @@ Before setting up and running the project, ensure that the following tools are i
 
 ## 🔧 Setup Instructions
 
+#### 🗝️ username / password => test@example.com / password
+
 ### 📦 Infrastructure (Docker & Laravel Sail)
 
 1. **Navigate to the backend folder**
