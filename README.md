@@ -256,3 +256,21 @@ Client (Nuxt 3, Vuetify)
 * Allow patient audio notes to be saved to their profile
 * Role-based access controls (Admin, Nurse, Doctor)
 * Offline mode or IndexedDB caching
+
+---
+
+## 🧪 Testing
+
+This assignment includes some basic **feature** and **unit tests** to ensure the reliability of the system.
+
+- ✅ **Upload Initialization**
+- ✅ **Chunk Writing**
+- ✅ **Get Offset**
+- ✅ **Delete**
+- ✅ **Authentication**
+
+### 🧪 To Run Tests
+
+```bash
+    ./vendor/bin/sail artisan test
+```
